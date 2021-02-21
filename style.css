@@ -67,6 +67,7 @@ dd {
 a {
   text-decoration: none;
   transition: all .6s ease;
+  color: #6a397d;
 }
 
 a:hover {
