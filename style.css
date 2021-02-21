@@ -1203,7 +1203,7 @@ footer .divider-top .shape-fill {
 .footer-wrapper .high .footer-list li a {
   font-size: 1.1em;
   transition: all .5s ease;
-  color: #6a397d;
+  /* color: #6a397d; */
 }
 
 .footer-wrapper .high .footer-list li a:hover {
@@ -1254,7 +1254,7 @@ footer .divider-top .shape-fill {
 .footer-wrapper .low .sns-logo li a i {
   font-size: 3.5em;
   transition: all .5s ease;
-  color: #6a397d;
+  /* color: #6a397d; */
 }
 
 .footer-wrapper .low .sns-logo li a:hover i {
@@ -1275,9 +1275,9 @@ footer .divider-top .shape-fill {
   border-radius: .25em;
 }
 
-.footer-wrapper .low .btn button a i {
+/* .footer-wrapper .low .btn button a i {
   color: #6a397d;
-}
+} */
 
 /* Back to Top ボタンにマウスオーバーした際のアニメーション */
 .to-top {
