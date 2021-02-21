@@ -672,6 +672,7 @@ li:hover .mask {
 .business-list ul li figcaption {
   font-size: 1em;
   font-weight: bold;
+  color: #6a397d;
 }
 
 /* ------- SDGs ------- */
@@ -752,6 +753,7 @@ li:hover .mask {
 .SDGs-list li a figcaption {
   font-size: 1.25em;
   font-weight: bold;
+  color: #6a397d;
 }
 
 .SDGs-headline {
